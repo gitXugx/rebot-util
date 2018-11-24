@@ -11,6 +11,10 @@ import java.awt.event.KeyEvent;
 public class RobotSuppot {
 
 
+
+
+
+
     /**
      * 将字符转换成key
      * @param key 字符
